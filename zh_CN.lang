@@ -2654,7 +2654,7 @@ tile.retaining_wall_purpur_small.name=小紫珀挡土墙
 tile.retaining_wall_quartz_small.name=小石英挡土墙
 tile.retaining_wall_red_sandstone_small.name=小红砂岩挡土墙
 tile.retaining_wall_sandstone_small.name=小砂岩挡土墙
-tile.retaining_wall_stone_small.name=小Stone挡土墙
+tile.retaining_wall_stone_small.name=小石头挡土墙
 
 tile.retaining_wall_ancient_stone_large.name=大古石砖挡土墙
 tile.retaining_wall_andesite_large.name=大安山岩挡土墙
@@ -2670,7 +2670,7 @@ tile.retaining_wall_purpur_large.name=大紫珀挡土墙
 tile.retaining_wall_quartz_large.name=大石英挡土墙
 tile.retaining_wall_red_sandstone_large.name=大红砂岩挡土墙
 tile.retaining_wall_sandstone_large.name=大砂岩挡土墙
-tile.retaining_wall_stone_large.name=大Stone挡土墙
+tile.retaining_wall_stone_large.name=大石头挡土墙
 
 tile.sapling_acacia_baobob.name=猴面包树树苗
 tile.sapling_acacia_baobob.latin=Adansonia grandidieri
@@ -3240,7 +3240,7 @@ tile.tile_purpur.name=紫珀瓷砖
 tile.tile_quartz.name=石英瓷砖
 tile.tile_red_sandstone.name=红砂岩瓷砖
 tile.tile_sandstone.name=砂岩瓷砖
-tile.tile_stone.name=Stone瓷砖
+tile.tile_stone.name=石头瓷砖
 
 tile.tile_clay_black.name=黑色陶瓦瓷砖
 tile.tile_clay_orange.name=橙色陶瓦瓷砖
